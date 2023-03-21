@@ -1,1 +1,1 @@
-echo "Jenkins connection to github was a success"
+echo "Jenkins connection to github was a success. SCM changed"
